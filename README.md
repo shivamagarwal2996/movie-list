@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-This is a full stack application for rating a movie. The front end of the app is in Reactjs and back-end is in flask.
+This is a full stack application for rating a movie. The front end of the app is in Reactjs and back-end is in flask and database used here is sqlite3.
 
 ### `npm start`
 
@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ## For running the back-end server 
 
-Change the directory to the movie-api then in the terminal run the following commands
-  export FLASK_APP=api
-  export FLASK_debug=1
-  flask run
+Change the directory to the movie-api then in the terminal run the following commands <br/>
+  export FLASK_APP=api <br/>
+  export FLASK_debug=1 <br/>
+  flask run <br/>
